@@ -1,4 +1,4 @@
-# Grokking Node.js - Deep Dive into Node.js
+# Grokking Node.js - Deep Dive into Node.js and backend development
 
 ## Overview
 
