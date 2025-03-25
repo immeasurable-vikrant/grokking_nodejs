@@ -17,7 +17,7 @@ Introduction to Node.js
     b) Event-Driven Architecture
         Node.js follows an event-driven architecture, efficiently handling asynchronous operations.
         This design allows it to manage multiple tasks without waiting for one to complete before starting another.
-        
+
     c) Asynchronous I/O (Non-blocking I/O)
         Node.js performs asynchronous I/O operations, meaning tasks like reading/writing files or making network requests do not block the execution of other operations.
         This is different from traditional synchronous programming, where tasks are executed sequentially.
@@ -51,4 +51,15 @@ Introduction to Node.js
 7. Present and Future of Node.js
         Node.js continues to evolve with strong community support, making it one of the most popular JavaScript runtimes.
     Its ecosystem, powered by NPM, provides a vast collection of libraries for building scalable and efficient applications.
+
+
+    Note :
+        When we say "outside the browser" in the context of Node.js, we mean that Node.js allows JavaScript to run on a server or in a non-browser environment, as opposed to the traditional way JavaScript only runs inside the browser on web pages.
+
+        Before Node.js, JavaScript was primarily used inside the browser for things like interactivity and manipulation of web pages (e.g., updating content, responding to user actions, etc.). However, JavaScript wasn't designed to handle tasks like managing servers or accessing file systems.
+
+        With Node.js, JavaScript can now run on the server-side, allowing developers to build server applications, APIs, handle requests, work with databases, interact with the file system, and much more—without being limited to just what’s happening inside a web browser. This expanded the capabilities of JavaScript beyond front-end (client-side) development.
+
+
+
 */ 

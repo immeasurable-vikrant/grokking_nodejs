@@ -16,9 +16,9 @@ JavaScript on the Server
     It is optimized for high performance through Just-In-Time (JIT) compilation, which compiles JavaScript into machine code at runtime.
 
     Key features of V8 include:
-        JIT Compilation: Converts JavaScript into optimized machine code dynamically during execution.
-        Garbage Collection: Automatically manages memory, preventing leaks and maintaining performance.
-        Efficient Execution: Optimizes frequently used code paths to improve runtime speed.
+        - JIT Compilation: Converts JavaScript into optimized machine code dynamically during execution.
+        - Garbage Collection: Automatically manages memory, preventing leaks and maintaining performance.
+        - Efficient Execution: Optimizes frequently used code paths to improve runtime speed.
 
 3. Node.js Code Conversion: High-Level to Machine Code
     JavaScript is a high-level interpreted language, meaning it needs to be converted into machine code before execution by the CPU.
