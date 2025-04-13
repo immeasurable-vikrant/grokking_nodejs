@@ -1,6 +1,4 @@
-# **Namaste Node.js - Episode 2 Summary**  
-
-## **Chapter 02: JavaScript on the Server**  
+## **JavaScript on the Server**  
 
 ### **1. Servers in Node.js**  
 - A **server** is a system that provides resources, data, services, or programs to other computers (clients) over a network.  
@@ -36,5 +34,3 @@
 - This conversion process enables **Node.js applications** to run at high speed while maintaining flexibility and scalability.  
 
 ---  
-
-### **If you found this helpful, please star the repository!**

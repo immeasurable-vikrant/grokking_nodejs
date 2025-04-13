@@ -1,4 +1,3 @@
-## Namaste Node.js - Episode 4 Summary 
 # Importing and Exporting in Node.js
 
 ## Importing and Using

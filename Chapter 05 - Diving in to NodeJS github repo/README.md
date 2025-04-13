@@ -1,4 +1,4 @@
-# Episode-05  Diving into the NodeJS github repo
+# Diving into the NodeJS github repo
 
 # Understanding IIFE, Module Privacy, and `require` in Node.js
 

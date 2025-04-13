@@ -1,4 +1,3 @@
-## Namaste Node.js - Episode 3 Summary 
 # Getting Started with Node.js: From Installation to Writing Your First JavaScript Code
 
 ##  Downloading and Installing Node.js
